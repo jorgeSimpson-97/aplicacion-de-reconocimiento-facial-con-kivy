@@ -1,0 +1,1 @@
+aplicacion realizada con el frameword de python Kyvi con librerias de tensorflowlite opencv plyer mediapipe con el fin de registrar rostro reconocerlo y habilitar un boton que envia un comando a una placa de desarrollo diseñada para una alarma vehicular de bloqueo la aplicacion cuenta con un pin de inicio que es por defecto 123456.
